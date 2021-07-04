@@ -46,7 +46,7 @@
         }
 
         .movieDetaildHeader {
-          background-color: #000;
+          background-color: $darkestGrayColor;
           padding: 15px;
 
           h1 {
@@ -125,6 +125,7 @@
             overflow: auto;
 
             .favMovie {
+              background-color: $darkestGrayColor;
               display: flex;
               margin: 20px 10px;
               border: 1px solid rgba(255, 255, 255, 0.739);

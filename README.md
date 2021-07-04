@@ -1,6 +1,6 @@
 # Infomovie
 
-A responsive React-hooks based web application, to browse moviea information through the OMDB API
+A responsive React-hooks based web application, to browse movies information through the OMDB API
 
 ### Prerequisites
 

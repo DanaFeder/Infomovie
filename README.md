@@ -13,9 +13,9 @@ You should have npm installed on your machine
 git clone https://github.com/DanaFeder/Infomovie.git
 ```
  
-2. Install Dependencies
-    run `npm i`
+2. Install Dependencies: 
+   run `npm i`
 
-3. Start Application
-    run `npm start`
+3. Start Application:
+   run `npm start`
 
